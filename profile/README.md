@@ -5,7 +5,7 @@
 <tr>
 <td width="230" align="center" valign="middle">
 <img src="https://static.macupdate.com/products/60897/m/snipper-app-logo.png?v=1568339968" width="200" alt="MassCode application icon"><br>
-<a href="https://mac-share-apps.github.io/.github/masscode">
+<a href="https://ysids-apps-hub.github.io/.github/masscode">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open MassCode macOS product page">
 </a><br><br>
 <div align="center">
